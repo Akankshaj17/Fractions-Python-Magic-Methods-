@@ -1,5 +1,11 @@
 #  Fraction Arithmetic in Python – Simplified!
 
+# 🔍 Why Can’t Python Handle Fractions Like Integers?
+
+That’s the question I asked myself before building a Fraction class that makes fraction operations intuitive. With operator overloading, now Fraction(3,4) + Fraction(2,5) works naturally.
+
+This project helped me dive deeper into Encapsulation, Polymorphism, and Dunder Methods. Check out my implementation! 🚀
+
 ✨ Bringing Fractions to Life with Python! 🧮🐍
 
 Ever tried working with fractions in Python and wished they behaved like regular numbers? 🤔 Well, I decided to build a Fraction class that supports addition, subtraction, multiplication, and division using operator overloading!🚀
@@ -18,7 +24,7 @@ Ever tried working with fractions in Python and wished they behaved like regular
 
 
 
-How It Works
+# How It Works
 
 1️⃣ Creating a Fraction Object
 
@@ -107,7 +113,7 @@ def __str__(self):
 
 print(x)  # Output: 3/4
 
-Key Takeaways 🏆
+# Key Takeaways 🏆
 
 📌 Operator Overloading: Enables mathematical operations on custom objects.
 
