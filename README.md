@@ -4,7 +4,9 @@
 
 That’s the question I asked myself before building a Fraction class that makes fraction operations intuitive. With operator overloading, now Fraction(3,4) + Fraction(2,5) works naturally.
 
-This project helped me dive deeper into Encapsulation, Polymorphism, and Dunder Methods. Check out my implementation! 🚀
+This project helped me dive deeper into Encapsulation, Polymorphism, and Dunder Methods. 
+
+# Check out my implementation! 🚀
 
 ✨ Bringing Fractions to Life with Python! 🧮🐍
 
